@@ -13,7 +13,7 @@ objectives:
 - "Access and read help files for `bash` programs and use help files to identify
   useful command options."
 - "Demonstrate the use of tab completion, and explain its advantages."
-  keypoints:
+keypoints:
 - "The shell gives you the ability to work more efficiently by using keyboard
   commands rather than a GUI."
 - "Useful commands for navigating your file system include: `ls`, `pwd`, and
